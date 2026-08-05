@@ -101,6 +101,9 @@ plt.legend()
 plt.grid(True)
 plt.show()
 ```
+<img width="685" height="326" alt="Screenshot 2026-08-05 193916" src="https://github.com/user-attachments/assets/2b988f0c-fc3b-4955-9164-4f968fa517fa" />
+<img width="1000" height="600" alt="yield_prediction" src="https://github.com/user-attachments/assets/b94441cf-2113-4d8f-a53c-0488902b04ad" />
+
 This code performs a **wheat yield prediction task using Simple Linear Regression**. It loads a CSV dataset containing yearly values, cleans and sorts the data, then uses **Year as the input feature** and **Yield/Value as the target** to build a regression model by manually calculating the slope (weight) and intercept (bias). The dataset is divided into training and testing sets to evaluate the model using Mean Squared Error (MSE). Finally, the model predicts future wheat yields for the years 2027–2030 and visualizes the actual data, regression trend line, and future predictions in a graph.
 The code uses the **Simple Linear Regression equation**:
 

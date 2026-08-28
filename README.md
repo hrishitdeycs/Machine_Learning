@@ -13,5 +13,5 @@ This repository uses the following open-source Python libraries:
 
 - **Iris Dataset** — Provided by **Scikit-learn**
 - **FAOSTAT Datasets** — Data sourced from **FAOSTAT (Food and Agriculture Organization of the United Nations)**
-
-> **Note:** The FAOSTAT datasets are not included in this repository.
+- **Mushroom Dataset** — Data sourced from **UCI Machine Learning Repository — J. Schlimmer (1987)**
+> **Note:** The datasets are not included in this repository.

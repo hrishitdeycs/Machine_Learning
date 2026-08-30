@@ -154,4 +154,7 @@ print(f"F1-score    : {f1 * 100:.2f}%")
 print(f"AUC         : {auc:.4f}")
 
 ```
+<img width="297" height="223" alt="image" src="https://github.com/user-attachments/assets/ef1238da-5859-4208-b88c-a16894202cda" />
+
+<img width="444" height="438" alt="image" src="https://github.com/user-attachments/assets/35f4d548-835b-48e2-b39f-9adbbc34736e" />
 

@@ -8,6 +8,7 @@ This repository uses the following open-source Python libraries:
 - **Pandas** — Data manipulation and analysis
 - **Matplotlib** — Data visualization
 - **Scikit-learn** — Machine learning and data analysis
+- **SciPy** — Scientific computing and numerical analysis
 
 ###  Datasets
 

@@ -15,5 +15,6 @@ This repository uses the following open-source Python libraries:
 - **Wine Dataset** — Provided by **Scikit-learn**
 - **FAOSTAT Datasets** — Data sourced from **FAOSTAT (Food and Agriculture Organization of the United Nations)**
 - **Mushroom Dataset** — Data sourced from **UCI Machine Learning Repository — J. Schlimmer (1987)**
-- **Mall Customers dataset** — sourced from **Kaggle** 
+- **Mall Customers dataset** — sourced from **Kaggle**
+- **Banknote Authentication Dataset** — Data sourced from **UCI Machine Learning Repository — Volker Lohweg**
 > **Note:** The datasets are not included in this repository.
